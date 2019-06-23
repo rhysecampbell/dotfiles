@@ -1,0 +1,2 @@
+# dotfiles
+Core terminal setup
