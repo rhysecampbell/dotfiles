@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/rcampbell/code/jc-ci-infosec'
+let g:netrw_dirhist_2='/Users/rcampbell/code/security-testing-class/attacks'
+let g:netrw_dirhist_3='/Users/rcampbell/code/jumpcloud-security-tools/attacks/hello-world'
+let g:netrw_dirhist_4='/Users/rcampbell/code/jumpcloud-security-tools/scripts'
+let g:netrw_dirhist_5='/Users/rcampbell/code/actions/actions'
+let g:netrw_dirhist_6='/Users/rcampbell/.bundle'
+let g:netrw_dirhist_7='/Users/rcampbell/.bundle/cache'
+let g:netrw_dirhist_8='/Users/rcampbell/code/dotfiles/.git'
