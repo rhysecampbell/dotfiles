@@ -7,9 +7,11 @@ cp -r \
 .bash_profile \
 .bashrc \
 .bashrc \
+.profile \
 .vim \
 .viminfo \
 .vimrc \
 .vimrc.plug \
 *iterm* \
+.zshrc \
 ./code/dotfiles
