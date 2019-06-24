@@ -11,4 +11,5 @@ cp -r \
 .viminfo \
 .vimrc \
 .vimrc.plug \
+*iterm* \
 ./code/dotfiles
